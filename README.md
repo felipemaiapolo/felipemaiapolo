@@ -1,7 +1,7 @@
 ## About me 🙋:
 
 - 🔎 Statistics PhD student at the [University of Michigan, USA](https://lsa.umich.edu/stats).
-- 🎓 MSc in Statistics from the [University of Sao Paulo, Brazil](https://www.ime.usp.br/en/home/).
+- 🎓 MSc in Statistics and BSc in Economics from the [University of Sao Paulo, Brazil](https://www5.usp.br).
 - 😄 Pronouns: he/him
 
 <details>
